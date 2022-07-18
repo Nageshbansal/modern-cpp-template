@@ -15,3 +15,5 @@ int magic(int x) {
 int battleOfTheFiveGods() {
     return MEW2KING * ARMADA * HUNGRYBOX * MANGO * PPMD;
 }
+
+pip, anaconda, npm, pub.dev

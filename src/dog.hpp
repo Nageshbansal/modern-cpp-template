@@ -1,3 +1,6 @@
+//
+/*
+*/
 #ifndef DOG_HPP
 #define DOG_HPP
 
@@ -10,6 +13,8 @@
  * the dog based on how much energy it has. Sleeping regains energy for the dog,
  * while barking and running use energy up.
  */
+
+
 
 
 class Dog {
